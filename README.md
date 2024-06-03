@@ -1,4 +1,5 @@
 Travel Map WebApp
+
 Python | Shiny | Amazon RDS | MySQL | sqlalchemy | ipyleaflet
         • 	Built custom end-to-end Shiny for python webapp to share my favorite restaurants, bars, and activities in Washington, DC.
         • 	Created interactive features and dynamic ipyleaflet maps to respond to user filtering. 
