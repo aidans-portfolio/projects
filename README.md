@@ -14,3 +14,11 @@ Python | VOSviewer | pandas | matplotlib | pyalex
 - Utilized OpenAlex API to connect to database of authors and key statistics. 
 - Created interactive visualization using database and custom calculations trying to recreate Q-score research. 
 ![image](https://github.com/aidans-portfolio/python_projects/assets/171621275/c3890ead-f935-4358-9bb4-dff176958765)
+
+
+# Voice of Customer Data Case Study
+Python | Excel | pandas | seaborn | PowerPoint 
+- Cleaned customer feedback dataset focused on Generative AI product sentiments and use-cases.
+- Extracted KPI insights and built aesthetically pleasing visualizations to highlight findings. 
+- Developed and presented a professional slide deck to condense findings into actionable business recommendations.
+![image](https://github.com/aidans-portfolio/projects/assets/171621275/3db60311-1da3-440e-bf84-287b8ef32166)
